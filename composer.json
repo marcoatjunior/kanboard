@@ -50,6 +50,18 @@
         ]
     },
     "require-dev" : {
+        "php": "^7.2.0",
+        "ext-simplexml" : "*",
+        "ext-dom" : "*",
+        "ext-xml" : "*",
+        "ext-gd" : "*",
+        "ext-mbstring" : "*",
+        "ext-hash" : "*",
+        "ext-openssl" : "*",
+        "ext-json" : "*",
+        "ext-ctype" : "*",
+        "ext-filter" : "*",
+        "ext-session" : "*",
         "phpunit/php-code-coverage": "4.0.8",
         "phpunit/php-token-stream": "1.4.12",
         "doctrine/instantiator": "1.0.5",
